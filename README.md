@@ -1,2 +1,2 @@
 # Data-analysis-portfolio
-Data analysis projetcs with Python
+Data analysis projects with Python
